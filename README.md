@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/46217146/208811249-ad38de1d-6b16-446c-9e1f-153f6a70d516.png)
+
 # 💫 About Me:
 🔭 I’m a Front-end Web Developer with a passion for Science and Design.<br>🌱 Aspiring Full-stack Developer.<br>💬 Shoot me an [email](mailto:kiflanadli@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/kiflanadli/) :)
 
